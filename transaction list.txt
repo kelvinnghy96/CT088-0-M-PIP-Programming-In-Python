@@ -1,0 +1,12 @@
+newuser,deposit,234.0
+newuser,withdraw,32.0
+newuser,deposit,324.0
+newuser,withdrawal,231.0
+newuser,deposit,550.0
+newuser,withdrawal,433.0
+newuser,deposit,3.0
+newuser,withdrawal,1.0
+newuser,deposit,3.0
+newuser,deposit,54.0
+newuser,deposit,43.0
+newuser,withdrawal,54.0
