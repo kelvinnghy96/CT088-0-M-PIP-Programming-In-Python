@@ -1,4 +1,4 @@
-# CT088-0-M-PIP-Programming-In-Python
+# Programming In Python (Online Banking System)
 
 ### Objective
 Develop an Online Banking System which will be used for Banking section organization.
