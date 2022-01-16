@@ -1,4 +1,0 @@
-Name	: New User
-Age	: 23
-Gender	: Male
-Contact	: 0012345678
