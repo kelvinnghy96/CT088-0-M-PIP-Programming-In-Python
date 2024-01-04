@@ -9,7 +9,7 @@
   - [License](#license)
 
 ## Installation Guide
-1. Click [here](https://github.com/kelvinnghy96/Stroke-Prediction-with-Data-Science/archive/refs/heads/main.zip) to download ```Air Pressure System Failure for Scania Trucks``` ZIP file.
+1. Click [here](https://github.com/kelvinnghy96/Online-Banking-System/archive/refs/heads/main.zip) to download ```Online Banking System``` ZIP file.
 2. Extract downloaded ZIP file.
 3. Run the source code in the ```code``` folder to see the result.
 
